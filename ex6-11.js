@@ -17,3 +17,5 @@ function startfnc(){
 function mes(){
   alert("3秒経ちました！");}
 
+  //setTimeout()を含む関数を呼び出す
+  setTimeout("hyouji()",1000);}

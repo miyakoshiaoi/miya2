@@ -1,2 +1,2 @@
-function imgchange5() {document.getElementById('logo1').src ="./image/josailogo.jpg";}
-function imgchange6() {document.getElementById('logo1').src ="./image/josailogo2.jpg";}
+function imgchange4(){document.getElementById('logo2').src='';}
+function imgchange5(){document.getElementById('logo2').src=''setTimeoutsetTimeout("imgchange4()",3000);}

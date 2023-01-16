@@ -12,6 +12,6 @@ else if(document.getElementById('answer4').value=='yume'){
  alert('当たり！');
 }
 else{
- alert('はずれ!');
+ alert('はずれ！');
  }
 }
